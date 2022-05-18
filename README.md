@@ -1,3 +1,3 @@
 # Web-development
 
-Web programming using HTML and CSS. 
+Web programming with HTML and CSS. 
