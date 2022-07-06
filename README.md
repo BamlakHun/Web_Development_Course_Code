@@ -1,3 +1,2 @@
-# Web-development
+# playing with HTML and CSS for web development
 
-Web programming with HTML and CSS. 
