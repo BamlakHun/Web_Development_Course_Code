@@ -1,2 +1,2 @@
-# playing with HTML and CSS for web development
+# a web page, playing with HTML and CSS.
 
